@@ -1,5 +1,8 @@
 # Maria Luiza! 🌱
 
+[![LinkedIn](https://img.shields.io/static/v1?label=Portfolio&message=%20&color=pink&style=flat-square&logoColor=white)](https://comarialuiza.netlify.app/)
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=pink&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/marialuizacoelho/)
+
 ## About Me
 Hello! I'm a front end developer based in Curitiba, Paraná. I'm currently working remotely on **Fohat**, helping create energy intelligence.
 
