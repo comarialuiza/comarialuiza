@@ -1,24 +1,21 @@
 # Maria Luiza! 🌱
 
-[![LinkedIn](https://img.shields.io/static/v1?label=Portfolio&message=%20&color=pink&style=flat-square&logoColor=white)](https://comarialuiza.netlify.app/)
-[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=pink&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/marialuizacoelho/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marialuizacoelho/)
 
-## About Me
-Hello! I'm a front end developer interested in developing beautiful web applications using the best technologies available on the market today. I strive to develop applications that can cause a positive impact on the user, designing easy to use interfaces that are also visually appealing.
+
+
+## whoami
+I'm Maria Luiza, a front end developer currently working at [Way2 Technology](https://www.way2.com.br/).
 
 ## Current Stack
-Javascript, Typescript, React.js + Hooks, Next.js, GraphQL + Apollo Client, Ant Design, Cypress.
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src=""/>
 
-## Knowledge
+<br />
+<br />
 
-**Languages:** 
-Javascript, Typescript.
-
-**Front-end:**
-HTML, CSS, Sass, Styled Components, ReactJS, Next, GraphQL, Apollo GraphQL.
-
-**Operational System:**
-MacOS, Windows, Ubuntu.
-
-**Versioning:**
-Git, GitHub, Bitbucket.
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=comarialuiza&show_icons=true&locale=pt-br&layout=compact" alt="comarialuiza"/>
