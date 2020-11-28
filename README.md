@@ -17,4 +17,4 @@ I'm Maria Luiza, a front end developer currently working at [Way2 Technology](ht
 <br />
 <br />
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=comarialuiza&show_icons=true&locale=pt-br&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=comarialuiza&show_icons=true&layout=compact)
